@@ -1384,7 +1384,7 @@ hr {
 .card{
     display: inline-block;
     width: 100%;
-    height: 200px;
+    height: 170px;
     margin: auto;
     margin-bottom: 0;
     position: relative;
@@ -1398,15 +1398,15 @@ hr {
    width: 120px;
    height: 120px;
    position: relative;
-   bottom: 260px;
-  left:100px;
+   bottom: 230px;
+   left:-25px;
    margin: auto;
     z-index: 1;
     
 }
 .mobile-info{
     display: block;
-    bottom: -70px;
+    bottom: -50px;
     align-items: center;
     align-content: center;
 }
@@ -1414,12 +1414,12 @@ hr {
 .mobile-info span{
     display: inline;
     position: relative;
-    font-size: 1rem;
+    font-size: 0.8rem;
 }
 
 #head-text {
     font-weight: bold;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     margin-bottom: 4px;
   }
   
@@ -1431,13 +1431,13 @@ hr {
   .msg-btn {
     background-color: #111;
     color: #fff;
-    padding: 10px 40px;
+    padding: 8px 37px;
     letter-spacing: 1.2px;
     border-radius: 0.5em;
-    font-size: 1rem;
+    font-size: 0.9rem;
     border: none;
     margin-top: 7px;
-    margin-bottom: 5px;
+   
   }
 .info{
     display: none;
