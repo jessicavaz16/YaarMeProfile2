@@ -1399,15 +1399,15 @@ hr {
    height: 120px;
    position: relative;
    bottom: 230px;
-   left:12px;
+   left:15px;
    margin: auto;
     z-index: 1;
-  border: none;
+ border: 2px solid white;
     
 }
 .mobile-info{
     display: block;
-    bottom: -50px;
+    bottom: -55px;
     align-items: center;
     align-content: center;
 }
