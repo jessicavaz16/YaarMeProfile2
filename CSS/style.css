@@ -1399,9 +1399,10 @@ hr {
    height: 120px;
    position: relative;
    bottom: 230px;
-   left:8px;
+   left:12px;
    margin: auto;
     z-index: 1;
+  border: none;
     
 }
 .mobile-info{
